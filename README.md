@@ -1,4 +1,4 @@
-# EX NO: Cloud-account-set-up-and-services
+Cloud-account-set-up-and-services
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
